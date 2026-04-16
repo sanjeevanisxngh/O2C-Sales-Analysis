@@ -1,0 +1,6 @@
+Order_ID,Order_Date,Product,Category,Region,Quantity,Unit_Price,Total_Sales,Payment_Status
+1,2024-01-01,Laptop,Electronics,North,2,50000,100000,Paid
+2,2024-01-05,Phone,Electronics,South,3,20000,60000,Paid
+3,2024-01-10,Tablet,Electronics,East,1,30000,30000,Pending
+4,2024-01-15,Headphones,Accessories,West,5,2000,10000,Paid
+5,2024-02-01,Laptop,Electronics,North,1,50000,50000,Pending
