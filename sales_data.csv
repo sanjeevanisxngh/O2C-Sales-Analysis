@@ -1,6 +1,26 @@
-Order_ID,Order_Date,Product,Category,Region,Quantity,Unit_Price,Total_Sales,Payment_Status
-1,2024-01-01,Laptop,Electronics,North,2,50000,100000,Paid
-2,2024-01-05,Phone,Electronics,South,3,20000,60000,Paid
-3,2024-01-10,Tablet,Electronics,East,1,30000,30000,Pending
-4,2024-01-15,Headphones,Accessories,West,5,2000,10000,Paid
-5,2024-02-01,Laptop,Electronics,North,1,50000,50000,Pending
+OrderID,CustomerName,Product,Region,OrderDate,Quantity,UnitPrice,TotalSales,PaymentStatus,DeliveryStatus
+O001,Rahul Sharma,Laptop,North,2024-01-05,2,55000,110000,Paid,Delivered
+O002,Priya Mehta,Mobile,South,2024-01-12,3,20000,60000,Pending,Delivered
+O003,Anjali Singh,Tablet,East,2024-02-03,1,35000,35000,Paid,Delivered
+O004,Vikram Das,Laptop,West,2024-02-18,2,55000,110000,Paid,Delivered
+O005,Sneha Roy,Headphones,North,2024-03-07,5,5000,25000,Pending,In Transit
+O006,Amit Patel,Mobile,South,2024-03-15,4,20000,80000,Paid,Delivered
+O007,Deepa Kumar,Tablet,East,2024-04-02,2,35000,70000,Overdue,Delivered
+O008,Ravi Nair,Laptop,West,2024-04-22,1,55000,55000,Paid,Delivered
+O009,Meena Joshi,Headphones,North,2024-05-10,6,5000,30000,Paid,Delivered
+O010,Sanjay Gupta,Mobile,South,2024-05-25,3,20000,60000,Pending,In Transit
+O011,Pooja Iyer,Tablet,East,2024-06-08,3,35000,105000,Paid,Delivered
+O012,Karan Verma,Laptop,West,2024-06-19,2,55000,110000,Overdue,Delivered
+O013,Nisha Reddy,Mobile,North,2024-07-04,5,20000,100000,Paid,Delivered
+O014,Alok Mishra,Headphones,South,2024-07-15,4,5000,20000,Paid,Delivered
+O015,Tina Bose,Tablet,East,2024-08-01,1,35000,35000,Pending,In Transit
+O016,Rohit Khanna,Laptop,West,2024-08-20,3,55000,165000,Paid,Delivered
+O017,Kavya Rao,Mobile,North,2024-09-05,2,20000,40000,Paid,Delivered
+O018,Suresh Pillai,Headphones,South,2024-09-18,7,5000,35000,Overdue,Delivered
+O019,Asha Chauhan,Tablet,East,2024-10-07,2,35000,70000,Paid,Delivered
+O020,Manish Sinha,Laptop,West,2024-10-25,1,55000,55000,Paid,Delivered
+O021,Divya Kapoor,Mobile,North,2024-11-03,4,20000,80000,Pending,In Transit
+O022,Gaurav Malik,Headphones,South,2024-11-17,5,5000,25000,Paid,Delivered
+O023,Rekha Tiwari,Laptop,East,2024-12-01,2,55000,110000,Paid,Delivered
+O024,Arjun Menon,Tablet,West,2024-12-20,3,35000,105000,Overdue,Delivered
+O025,Lakshmi Devi,Mobile,North,2024-12-28,6,20000,120000,Paid,Delivered
